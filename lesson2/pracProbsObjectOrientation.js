@@ -1,3 +1,5 @@
+'use strict'
+
 function createProduct(id, name, stock, price) {
   return {
     id,

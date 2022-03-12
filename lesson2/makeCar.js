@@ -1,3 +1,5 @@
+'use strict'
+
 // 1. Write a makeCar function that works as shown above.
 
 function makeCar(accelRate, brakeRate) {

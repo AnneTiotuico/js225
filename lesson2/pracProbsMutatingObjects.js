@@ -1,3 +1,5 @@
+'use strict'
+
 // 1. What will the code below output to the console?
 let message = 'Hello from the global scope!';
 

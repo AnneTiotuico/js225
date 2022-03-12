@@ -1,3 +1,5 @@
+'use strict'
+
 let me = {
   firstName: 'Anne',
   lastName: 'Tio',
